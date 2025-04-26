@@ -1,4 +1,4 @@
-Hi, I’m @javierferna / [Email](mailto:javier.fefefe@gmail.com) / [LinkedIn](https://www.linkedin.com/in/javierferna/)
+Hi, I’m Javier Fernández | [Email](mailto:javier.fefefe@gmail.com) | [LinkedIn](https://www.linkedin.com/in/javierferna/)
 
 - I’m currently an engineering student at UC3M, completing a study abroad program at Purdue University for the 2024/2025 academic year.
 - I’m excited to collaborate on real-world challenges involving data analysis, machine learning, and programming.
